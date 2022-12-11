@@ -162,7 +162,7 @@ ORDER BY age ASC
 -- 1000 customers
 
 -------------------------------------------------------------------------------------
--------------------------------------------------------------------------------------
+
 
 -- Querying using window functions.
 -- this queries are used for data exploration and are not considered for final dashboard 
