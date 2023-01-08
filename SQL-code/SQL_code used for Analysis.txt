@@ -184,4 +184,4 @@ ON t.customer_id = c.customer_id
 WHERE brand IS NOT NULL
 GROUP BY t.customer_id, brand
 HAVING COUNT(*) >= 3
--- coustomer who bought same brand 3 times
+
